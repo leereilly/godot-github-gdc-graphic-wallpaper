@@ -1,6 +1,6 @@
 ![Godot 4.0 Release Party Graphic](1920x1080.png)
 
-By [request](https://www.instagram.com/p/CqD13j-tX2W/c/18009010879580129/) here are some wallpaper options featuring the illustration used for the [Godot 4.0 Release Party](https://github.blog/2023-03-16-godot-4-0-release-party/) held at GitHub HQ on March 22nd, 2023.
+By [request](https://www.instagram.com/p/CqD13j-tX2W/c/18009010879580129/) here are some wallpaper options featuring the illustration created by [@wodzgn](https://www.instagram.com/wodzgn/) and used for the [Godot 4.0 Release Party](https://github.blog/2023-03-16-godot-4-0-release-party/) held at GitHub HQ on March 22nd, 2023.
 
 
 * [`1920x1080px`](1920x1080.png) (FHD)
